@@ -44,4 +44,4 @@ def closestStraightCity(c, x, y, q):
 
     # Write your code here
 
-if __name__ == '__main__':
+###Hacker Rank input code here###
